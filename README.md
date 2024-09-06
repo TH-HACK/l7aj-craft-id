@@ -2,6 +2,18 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
+<h2>
+  مرحبا في صفحتي على github ، حسنا انا طالب في البرمجة و الامن سيبراني (الاختراق الاخلاقي)
+</h2>
+<h2>
+  في هاذا المسودع اقدم لكم فيه موقع خاص ب الحصول على معرف العناصر في لعبة فريفاير 
+  الموقع معدل
+</h2>
+  
+<h2 me
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me:</i></h2>
 
 <table border="1">

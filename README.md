@@ -16,8 +16,7 @@
     </a>
     
 <a
-  href="
-  [https://instagram.com/12.00.00h](https://www.instagram.com/mx.fo?igsh=NG9qbXJucHVlYjkz)" target="blank"><img align="center" src="https://github.com/TH-HACK/TH1/blob/main/tiktok-square-color-icon.svg" alt="12.00.00h" height="30" width="40" /></a>
+  href="https://www.tiktok.com/@l7aj..1m?_t=8pUwTEC1T1S&_r=1" target="blank"><img align="center" src="https://github.com/TH-HACK/TH1/blob/main/tiktok-square-color-icon.svg" alt="12.00.00h" height="30" width="40" /></a>
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 <a href="https://www.youtube.com/c/techno hack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techno hack" height="30" width="40" /></a>
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">

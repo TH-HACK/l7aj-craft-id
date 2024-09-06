@@ -3,14 +3,17 @@
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 <h2>
-  مرحبا في صفحتي على github ، حسنا انا طالب في البرمجة و الامن سيبراني (الاختراق الاخلاقي)
+  مرحبا في صفحتي على github ، انا طالب في البرمجة و الامن سيبراني (الاختراق الاخلاقي)
 </h2>
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 <h2>
-  في هاذا المسودع اقدم لكم فيه موقع خاص ب الحصول على معرف العناصر في لعبة فريفاير 
-  الموقع معدل
+  في هاذا المستودع اقدم لكم فيه موقع خاص ب الحصول على معرف العناصر في لعبة فريفاير 
+  الموقع معدل من طرفي 
 </h2>
-  
-<h2 me
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+<h2>
+ صاحب المشروع الاصلي : https://github.com/jinix6 
+<h2/>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
